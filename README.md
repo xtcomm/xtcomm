@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @xtcomm
-- 👀 I’m interested in Product Design
-- 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on UI Design
+- 👀 I’m a certified Product (UX/UI) Designer
+- 🌱 I’m currently learning Project Management
+- 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 How to reach me xtfreelancer@gmail.com
+- 
 
 <!---
 xtcomm/xtcomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
