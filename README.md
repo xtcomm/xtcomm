@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 How to reach me xtfreelancer@gmail.com
-- 
+- 🌐 My portfolio is @ https://www.onyekaezeneche.design/
 
 <!---
 xtcomm/xtcomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
